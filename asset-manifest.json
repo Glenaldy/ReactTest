@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ReactTest/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ReactTest/static/js/main.5163cdfb.chunk.js",
+    "main.js.map": "/ReactTest/static/js/main.5163cdfb.chunk.js.map",
+    "runtime-main.js": "/ReactTest/static/js/runtime-main.1fdb121d.js",
+    "runtime-main.js.map": "/ReactTest/static/js/runtime-main.1fdb121d.js.map",
+    "static/css/2.658248ec.chunk.css": "/ReactTest/static/css/2.658248ec.chunk.css",
+    "static/js/2.f2dff392.chunk.js": "/ReactTest/static/js/2.f2dff392.chunk.js",
+    "static/js/2.f2dff392.chunk.js.map": "/ReactTest/static/js/2.f2dff392.chunk.js.map",
+    "static/js/3.86d38d09.chunk.js": "/ReactTest/static/js/3.86d38d09.chunk.js",
+    "static/js/3.86d38d09.chunk.js.map": "/ReactTest/static/js/3.86d38d09.chunk.js.map",
+    "index.html": "/ReactTest/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/ReactTest/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ReactTest/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.f2dff392.chunk.js.LICENSE.txt": "/ReactTest/static/js/2.f2dff392.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1fdb121d.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.f2dff392.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.5163cdfb.chunk.js"
+  ]
+}
